@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\PH Practice L2\\Modules-practice\\mission-6-database\\radis-api-fgateway\\explore-radis\\um-auth-starter-api-gate-way\\logs\\winston\\errors\\.7a5b8e387e0ddda0592b9b39be95427330456297-audit.json",
+    "files": [
+        {
+            "date": 1705381414424,
+            "name": "F:\\PH Practice L2\\Modules-practice\\mission-6-database\\radis-api-fgateway\\explore-radis\\um-auth-starter-api-gate-way\\logs\\winston\\errors\\phu-2024-16-01-11-error.log",
+            "hash": "d4eaa8f1457bc23d2576e201dff60a9bdbc6fe61e52cd34121b260c56027c055"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\PH Practice L2\\Modules-practice\\mission-6-database\\radis-api-fgateway\\explore-radis\\um-core-starter-api-gate-way\\logs\\winston\\successes\\.c6e69a18fdfdbf24657b654acef5bb0f271b7b32-audit.json",
+    "files": [
+        {
+            "date": 1705381152919,
+            "name": "F:\\PH Practice L2\\Modules-practice\\mission-6-database\\radis-api-fgateway\\explore-radis\\um-core-starter-api-gate-way\\logs\\winston\\successes\\phu-2024-16-01-10-success.log",
+            "hash": "d9a777e48c1cc7dad3a53f032da14ef9f464658581926d96498885c7203beb93"
+        },
+        {
+            "date": 1705381200125,
+            "name": "F:\\PH Practice L2\\Modules-practice\\mission-6-database\\radis-api-fgateway\\explore-radis\\um-core-starter-api-gate-way\\logs\\winston\\successes\\phu-2024-16-01-11-success.log",
+            "hash": "c4bc23c42bdac320151c3cdec1b1ba75c48340563731866d212aebefd634958f"
+        }
+    ],
+    "hashType": "sha256"
+}
