@@ -9,6 +9,7 @@ import {
 import { IAcademicFacultyFilterRequest } from './academicFaculty.interface';
 
 const insertIntoDB = async (data: AcademicFaculty): Promise<AcademicFaculty> => {
+    
     const result = await prisma.academicFaculty.create({
         data
     });
